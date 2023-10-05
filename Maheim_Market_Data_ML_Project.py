@@ -29,7 +29,7 @@ def evaluate_classifiers(classifiers, X_train, y_train, X_test, y_test):
         print('-' * 40)
 
 # Load your cleaned data here
-data = pd.read_excel(r'C:/Users/Imran/Downloads/MarketCombined.xlsx')
+data = pd.read_excel(r'MarketCombined.xlsx')
 
 data = data.dropna()
 
