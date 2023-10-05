@@ -16,3 +16,5 @@ Note: Workflow is created based on Maheim Market data (Data can be downloaded fr
 2. Run `pip install -r requirements.txt`.
 3. Run `python Maheim_Market_Data_ML_Project.py`.
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
